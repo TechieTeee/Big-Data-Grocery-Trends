@@ -10,6 +10,6 @@ Pandas and Spark Data Analysis of Historical Instacart Data
  Dataset Published by Instacart
 
 # **Tools Used**
--Python
--SQL
--Spark
+* Python
+* SQL
+* Spark
